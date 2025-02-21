@@ -1,38 +1,62 @@
-# 👋 Hi, I’m Wahyu Syahbani!
+# 👋 Wahyu Syahbani
 
-🚀 **Teknisi & Programmer | Berpengalaman di IT & Networking**  
-💻 **Keahlian:** Perbaikan Komputer | Jaringan | IT Support | Dismantle Engineer  
-📌 **Pengalaman Kerja:**  
-- **Teknisi Komputer** (Nov 2021 – Apr 2024) @ CV. Akasia Komputer
-  - Melakukan perbaikan & perawatan komputer
-  - Menganalisis & menangani permasalahan jaringan
-  - Instalasi & konfigurasi perangkat keras & lunak
-  - Memberikan dukungan teknis kepada pelanggan
-  - Mengelola stok & pemeliharaan peralatan IT
-- **Engineer Dismantle** (Agu 2023) @ Telkomsel Telecommunication Centre (TTC)
-  - Membantu proses pembongkaran & perawatan perangkat telekomunikasi
-  - Dokumentasi & pelaporan hasil pembongkaran
-  - Berkoordinasi dengan tim untuk memastikan kelancaran proyek
-- **Mitra SiCepat Express** (Juni 2024 – Sekarang) @ SiCepat Express Kebayoran Baru
-  - Mengelola pengiriman & penerimaan paket
-  - Memastikan paket dikirim tepat waktu
-  - Menggunakan sistem pelacakan untuk memperbarui status pengiriman
+## 💼 IT Technician & Network Specialist  
+Experienced in **computer hardware maintenance, network troubleshooting, and IT support**. Passionate about improving efficiency and implementing effective technical solutions.
 
-🎓 **Pendidikan:**  
-- **SMK Muhammadiyah 02 Sukoharjo** (2019 - 2022) - Kejuruan TKJ  
-  - Nilai rata-rata: 82,35  
+---
 
-⚡ **Keterampilan:**  
-- Mudah Beradaptasi  
-- Kerja Sama Tim  
-- Pemecahan Masalah  
-- Pemahaman Perangkat Keras Komputer  
-- Keterampilan Kabel & Jaringan  
+## 📌 Work Experience
 
-📫 **Hubungi saya:**  
+### **IT Technician**  
+📍 CV. Akasia Komputer | *Nov 2021 – Apr 2024*  
+- Conducted computer repairs and maintenance.  
+- Analyzed and resolved network issues.  
+- Installed and configured hardware and software.  
+- Provided technical support to clients.  
+- Managed IT equipment inventory and maintenance.
+
+### **Dismantle Engineer**  
+📍 Telkomsel Telecommunication Centre (TTC) | *Aug 2023*  
+- Assisted in dismantling and maintenance of telecommunications equipment.  
+- Ensured quality and safety in dismantling processes.  
+- Conducted documentation and reporting of dismantling operations.  
+- Coordinated with teams to ensure smooth project execution.
+
+### **Logistics Partner**  
+📍 SiCepat Express | *June 2024 – Present*  
+- Managed package deliveries and shipments efficiently.  
+- Provided excellent customer service in logistics.  
+- Ensured timely and secure deliveries.  
+- Utilized tracking systems for real-time shipment updates.  
+- Collaborated with operations team to optimize processes.
+
+---
+
+## 🎓 Education
+
+**SMK Muhammadiyah 02 Sukoharjo**  
+*2019 - 2022* | Major: **Computer and Network Engineering**  
+- Graduated with an average score of **82.35**
+
+---
+
+## 🛠 Skills
+
+- **Technical Troubleshooting & Problem Solving**  
+- **Computer Hardware & Software Maintenance**  
+- **Network Configuration & Cable Management**  
+- **IT Support & Customer Service**  
+- **Adaptability & Team Collaboration**  
+
+---
+
+## 📞 Contact Information
+
 📍 Jakarta Selatan  
-📞 0822-2351-7367  
 📧 [wahyuusyahbanii@gmail.com](mailto:wahyuusyahbanii@gmail.com)  
-📸 [Instagram: @wsyahbanii](https://instagram.com/wsyahbanii)  
+📱 0822-2351-7367  
+🔗 [Instagram: @wsyahbanii](https://instagram.com/wsyahbanii)  
+
+---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wahyusyahbani&show_icons=true&theme=dark)
