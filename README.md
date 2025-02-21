@@ -56,7 +56,3 @@ Experienced in **computer hardware maintenance, network troubleshooting, and IT 
 📧 [wahyuusyahbanii@gmail.com](mailto:wahyuusyahbanii@gmail.com)  
 📱 0822-2351-7367  
 🔗 [Instagram: @wsyahbanii](https://instagram.com/wsyahbanii)  
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wahyusyahbani&show_icons=true&theme=dark)
